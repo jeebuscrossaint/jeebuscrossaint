@@ -5,7 +5,7 @@ _____
 
 ### Formal/Academic
 
-My name is Amarnath, and I am currently 16 years old![full-time dual enrolled highschool](https://www.fauhigh.fau.edu/)
+My name is Amarnath, and I am currently 16 years old ![full-time dual enrolled highschool](https://www.fauhigh.fau.edu/)
 
 <details>
 <summary><b>only if you are daring :P</b></summary>
