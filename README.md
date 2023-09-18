@@ -24,6 +24,6 @@ Learning about AI and web development in depth is also a something that I want t
 
 ### Operating Systems
 
-[image](https://github.com/jeebuscrossaint/jeebuscrossaint/assets/96545104/b0940c2c-8179-4685-a40a-8ed3897e700e) 
+![image](https://github.com/jeebuscrossaint/jeebuscrossaint/assets/96545104/b0940c2c-8179-4685-a40a-8ed3897e700e) 
 
 INCOMPLETE PLEASE FINISH LOL
