@@ -17,6 +17,7 @@ I am Amarnath, a student attending university. I took up programming as I always
 <summary>Personal "stack"?</summary>
 <br>
 
+Languages:
 ![C](assets/c.png) &nbsp;
 ![C++](assets/cplusplus.png) &nbsp;
 ![Bash](assets/gnubash.png) &nbsp;
@@ -33,12 +34,14 @@ I am Amarnath, a student attending university. I took up programming as I always
 
 <br>
 
+Toolchains:
 ![Git](assets/git.png) &nbsp;
 ![Node.js](assets/nodedotjs.png) &nbsp;
 ![Bun](assets/bun.png) &nbsp;
 
 <br>
 
+Operating Systems & Hardware:
 ![Linux](assets/linux.png) &nbsp;
 ![Windows](assets/windows.png) &nbsp;
 ![BSD](assets/bsd.png) &nbsp;
@@ -50,4 +53,7 @@ I am Amarnath, a student attending university. I took up programming as I always
 
 I have a couple of repositories here on GitHub, feel free to check them out. I am always open to feedback and suggestions. I usually just go to school and come home, but me and my friends enjoy playing basketball from time to time. I enjoy playing video games and I run a pseudo-server at home (just a 12 year old laptop running a couple of services).
 
+<hr>
+
+[![My GitHub stats](https://github-readme-stats-blond-six-73.vercel.app/api?username=jeebuscrossaint&show_icons=true&theme=dark&hide_title=false&card_width=400px&hide_rank=true&line_height=34&hide=issues&custom_title=jeebuscrossaint's%20GitHub%20Stats)](https://github.com/jeebuscrossaint) [![Top Langs](https://github-readme-stats-blond-six-73.vercel.app/api/top-langs/?username=jeebuscrossaint&hide=roff,html,css&layout=donut&theme=dark)](https://github.com/jeebuscrossaint)
 <hr>
