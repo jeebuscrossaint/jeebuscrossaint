@@ -17,32 +17,32 @@ I am Amarnath, a student attending university. I took up programming as I always
 <summary>Personal "stack"?</summary>
 <br>
 
-![C](assets/c.svg) &nbsp;
-![C++](assets/cplusplus.svg) &nbsp;
-![Bash](assets/gnubash.svg) &nbsp;
-![Fish](assets/fishshell.svg) &nbsp;
-![Rust](assets/rust.svg) &nbsp;
-![Golang](assets/go.svg) &nbsp;
-![HTML](assets/html5.svg) &nbsp;
-![CSS](assets/css3.svg) &nbsp;
-![JavaScript](assets/javascript.svg) &nbsp;
-![Python](assets/python.svg) &nbsp;
+![C](assets/c.png) &nbsp;
+![C++](assets/cplusplus.png) &nbsp;
+![Bash](assets/gnubash.png) &nbsp;
+![Fish](assets/fishshell.png) &nbsp;
+![Rust](assets/rust.png) &nbsp;
+![Golang](assets/go.png) &nbsp;
+![HTML](assets/html5.png) &nbsp;
+![CSS](assets/css3.png) &nbsp;
+![JavaScript](assets/javascript.png) &nbsp;
+![Python](assets/python.png) &nbsp;
 
-![Neovim](assets/neovim.svg) &nbsp;
-![VSCode](assets/visualstudiocode.svg) &nbsp;
-
-<br>
-
-![Git](assets/git.svg) &nbsp;
-![Node.js](assets/nodedotjs.svg) &nbsp;
-![Bun](assets/bun.svg) &nbsp;
+![Neovim](assets/neovim.png) &nbsp;
+![VSCode](assets/visualstudiocode.png) &nbsp;
 
 <br>
 
-![Linux](assets/linux.svg) &nbsp;
-![Windows](assets/windows.svg) &nbsp;
-![BSD](assets/bsd.svg) &nbsp;
-![Raspberry Pi](assets/raspberrypi.svg) &nbsp;
+![Git](assets/git.png) &nbsp;
+![Node.js](assets/nodedotjs.png) &nbsp;
+![Bun](assets/bun.png) &nbsp;
+
+<br>
+
+![Linux](assets/linux.png) &nbsp;
+![Windows](assets/windows.png) &nbsp;
+![BSD](assets/bsd.png) &nbsp;
+![Raspberry Pi](assets/raspberrypi.png) &nbsp;
 
 <br>
 </details>
