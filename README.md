@@ -18,34 +18,22 @@ I am Amarnath, a student attending university. I took up programming as I always
 <br>
 
 Languages:
-![C](assets/c.png) &nbsp;
-![C++](assets/cplusplus.png) &nbsp;
-![Bash](assets/gnubash.png) &nbsp;
-![Fish](assets/fishshell.png) &nbsp;
-![Rust](assets/rust.png) &nbsp;
-![Golang](assets/go.png) &nbsp;
-![HTML](assets/html5.png) &nbsp;
-![CSS](assets/css3.png) &nbsp;
-![JavaScript](assets/javascript.png) &nbsp;
-![Python](assets/python.png) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,rust,go,html,css,js,py)](https://github.com/jeebuscrossaint) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-![Neovim](assets/neovim.png) &nbsp;
-![VSCode](assets/visualstudiocode.png) &nbsp;
+<br>
+
+Editors:
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://github.com/jeebuscrossaint) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
 
 Toolchains:
-![Git](assets/git.png) &nbsp;
-![Node.js](assets/nodedotjs.png) &nbsp;
-![Bun](assets/bun.png) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=git,nodejs,bun,cmake,zig)](https://github.com/jeebuscrossaint) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
 
 Operating Systems & Hardware:
-![Linux](assets/linux.png) &nbsp;
-![Windows](assets/windows.png) &nbsp;
-![BSD](assets/bsd.png) &nbsp;
-![Raspberry Pi](assets/raspberrypi.png) &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,bsd,raspberrypi)](https://github.com/jeebuscrossaint) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
 </details>
