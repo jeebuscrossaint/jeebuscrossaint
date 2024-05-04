@@ -17,22 +17,26 @@ I am Amarnath, a student attending university. I took up programming as I always
 <summary>Personal "stack"?</summary>
 <br>
 
-Languages:
+<p align="center">Languages:</p>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,rust,go,html,css,js,py)](https://github.com/jeebuscrossaint) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
 
-Editors:
+<p align="center">Editors:</p>
+
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://github.com/jeebuscrossaint) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
 
-Toolchains:
+<p align="center">Toolchains:</p>
+
 [![My Skills](https://skillicons.dev/icons?i=git,nodejs,bun,cmake,zig)](https://github.com/jeebuscrossaint) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
 
-Operating Systems & Hardware:
+<p align="center">Operating Systems & Hardware:</p>
+
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,bsd,raspberrypi)](https://github.com/jeebuscrossaint) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
@@ -45,4 +49,3 @@ I have a couple of repositories here on GitHub, feel free to check them out. I a
 
 [![My GitHub stats(you care a lot about this trust me lol)](https://github-readme-stats-blond-six-73.vercel.app/api?username=jeebuscrossaint&show_icons=true&theme=dark&hide_title=false&card_width=400px&hide_rank=true&line_height=34&hide=issues&custom_title=jeebuscrossaint's%20GitHub%20Stats)](https://github.com/jeebuscrossaint) [![Top Langs](https://github-readme-stats-blond-six-73.vercel.app/api/top-langs/?username=jeebuscrossaint&hide=roff,html,css&layout=donut&theme=dark)](https://github.com/jeebuscrossaint)
 <hr>
-
