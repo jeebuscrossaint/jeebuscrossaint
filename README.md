@@ -63,5 +63,5 @@ I have a couple of repositories here on GitHub, feel free to check them out. I a
 
 <hr>
 
-[![My GitHub stats(you care a lot about this trust me lol)](https://github-readme-stats-blond-six-73.vercel.app/api?username=jeebuscrossaint&show_icons=true&theme=dark&hide_title=false&card_width=400px&hide_rank=true&line_height=34&hide=issues&custom_title=jeebuscrossaint's%20GitHub%20Stats)](https://github.com/jeebuscrossaint) [![Top Langs](https://github-readme-stats-blond-six-73.vercel.app/api/top-langs/?username=jeebuscrossaint&hide=roff,html,css,lua,Makefile&layout=donut&theme=dark)](https://github.com/jeebuscrossaint)
+<!--[![My GitHub stats(you care a lot about this trust me lol)](https://github-readme-stats-blond-six-73.vercel.app/api?username=jeebuscrossaint&show_icons=true&theme=dark&hide_title=false&card_width=400px&hide_rank=true&line_height=34&hide=issues&custom_title=jeebuscrossaint's%20GitHub%20Stats)](https://github.com/jeebuscrossaint) [![Top Langs](https://github-readme-stats-blond-six-73.vercel.app/api/top-langs/?username=jeebuscrossaint&hide=roff,html,css,lua,Makefile&layout=donut&theme=dark)](https://github.com/jeebuscrossaint) -->
 <hr>
