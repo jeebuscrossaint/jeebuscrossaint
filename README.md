@@ -2,9 +2,7 @@
 
 <p align="center">
     | <a href="mailto:apatel6ty@protonmail.com?subject=&body=">Personal Email</a> |
-    <a href="mailto:amarnathpate2021@fau.edu?subject=&body=">School Email</a> |
     <a href="https://www.linkedin.com/in/amarnath-patel-772b56286/">LinkedIn</a> |
-    <a href="https://discordapp.com/users/617140289311735818">Discord</a> |
 </p>
 
 <hr>
