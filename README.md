@@ -6,7 +6,7 @@ Currently exploring embedded systems and machine learning
 ## Operating Systems I Use
 <a href="#"><img src="https://api.iconify.design/simple-icons:windows.svg" width="30" height="30" alt="Windows"></a>
 <a href="#"><img src="https://api.iconify.design/simple-icons:nixos.svg" width="30" height="30" alt="NixOS"></a>
-<a href="#"><img src="https://api.iconify.design/simple-icons:openbsd.svg" width="30" height="30" alt="OpenBSD"></a>
+<a href="#"><img src="https://api.iconify.design/file-icons:openbsd-alt.svg" width="30" height="30" alt="OpenBSD"></a>
 
 ## Languages I Work With
 <a href="#"><img src="https://api.iconify.design/arcticons:clanguage.svg" width="30" height="30" alt="C"></a>
