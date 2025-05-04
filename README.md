@@ -1,6 +1,7 @@
 # Amarnath Patel
 
 Developer with a passion for systems programming and cross-platform development
+
 Currently exploring embedded systems and machine learning
 
 ## Operating Systems I Use
@@ -39,4 +40,4 @@ Currently exploring embedded systems and machine learning
 
 ---
 
-Always looking for interesting collaboration opportunities and open source projects to contribute to!
+Always looking for interesting collaboration opportunities and open source projects to contribute to! Also I want money
