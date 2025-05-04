@@ -10,7 +10,7 @@ Currently exploring embedded systems and machine learning
 
 ## Languages I Work With
 <a href="#"><img src="https://api.iconify.design/arcticons:clanguage.svg" width="30" height="30" alt="C"></a>
-<a href="#"><img src="https://api.iconify.design/arcticons:cplusplus.svg" width="30" height="30" alt="C++"></a>
+<a href="#"><img src="https://api.iconify.design/simple-icons:cplusplus.svg" width="30" height="30" alt="C++"></a>
 <a href="#"><img src="https://api.iconify.design/simple-icons:rust.svg" width="30" height="30" alt="Rust"></a>
 <a href="#"><img src="https://api.iconify.design/famicons:logo-nodejs.svg" width="30" height="30" alt="Node.js"></a>
 <a href="#"><img src="https://api.iconify.design/file-icons:nimrod.svg" width="30" height="30" alt="Nim"></a>
