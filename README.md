@@ -29,6 +29,7 @@ Currently exploring embedded systems and machine learning
 <a href="#"><img src="https://api.iconify.design/devicon-plain:arduino.svg" width="30" height="30" alt="Arduino"></a>
 <a href="#"><img src="https://api.iconify.design/devicon-plain:raspberrypi.svg" width="30" height="30" alt="Raspberry Pi"></a>
 <a href="#"><img src="https://api.iconify.design/hugeicons:artificial-intelligence-04.svg" width="30" height="30" alt="AI/ML"></a>
+<a href="#"><img src="https://api.iconify.design/material-symbols:attach-money.svg" width="30" height="30" alt="Money"></a>
 
 ## Find Me
 <a href="https://github.com/jeebuscrossaint"><img src="https://api.iconify.design/lucide:github.svg" width="30" height="30" alt="GitHub"></a>
