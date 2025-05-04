@@ -37,10 +37,11 @@ I want to do more embedded + microcontroller projects and as the entire market i
 <a href="#"><img src="https://api.iconify.design/material-symbols:attach-money.svg" width="30" height="30" alt="Money"></a>
 
 ## Find Me
-I'm on GitHub & ProtonMail
+I'm on GitHub & ProtonMail & LinkedIn
 <a href="https://github.com/jeebuscrossaint"><img src="https://api.iconify.design/lucide:github.svg" width="30" height="30" alt="GitHub"></a>
 <a href="https://jeebuscrossaint.github.io"><img src="https://api.iconify.design/lineicons:website.svg" width="30" height="30" alt="Personal Website"></a>
 <a href="mailto:apatel6ty@protonmail.com"><img src="https://api.iconify.design/simple-icons:protonmail.svg" alt="ProtonMail" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/amarnath-patel-772b56286/"><img src="https://api.iconify.design/lineicons:linkedin-original.svg" alt="LinkedIn" width="30" height="30"></a>
 
 ---
 
