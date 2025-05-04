@@ -13,7 +13,7 @@ Currently exploring embedded systems and machine learning
 <a href="#"><img src="https://api.iconify.design/arcticons:cplusplus.svg" width="30" height="30" alt="C++"></a>
 <a href="#"><img src="https://api.iconify.design/simple-icons:rust.svg" width="30" height="30" alt="Rust"></a>
 <a href="#"><img src="https://api.iconify.design/famicons:logo-nodejs.svg" width="30" height="30" alt="Node.js"></a>
-<a href="#"><img src="https://api.iconify.design/devicon-plain:nim-wordmark.svg" width="30" height="30" alt="Nim"></a>
+<a href="#"><img src="https://api.iconify.design/file-icons:nimrod.svg" width="30" height="30" alt="Nim"></a>
 <a href="#"><img src="https://api.iconify.design/simple-icons:python.svg" width="30" height="30" alt="Python"></a>
 <a href="#"><img src="https://api.iconify.design/mdi:powershell.svg" width="30" height="30" alt="PowerShell"></a>
 <a href="#"><img src="https://api.iconify.design/streamline:programming-browser-code-1-code-browser-line-shell-programming-command-terminal.svg" width="30" height="30" alt="Unix Shells"></a>
