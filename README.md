@@ -22,6 +22,7 @@ Currently exploring embedded systems and machine learning
 <a href="#"><img src="https://api.iconify.design/devicon-plain:neovim.svg" width="30" height="30" alt="Neovim"></a>
 <a href="#"><img src="https://api.iconify.design/iconoir:git.svg" width="30" height="30" alt="Git"></a>
 <a href="#"><img src="https://api.iconify.design/simple-icons:zedindustries.svg" width="30" height="30" alt="Zed"></a>
+<a href="#"><img src="https://api.iconify.design/lineicons:docker.svg" width="30" height="30" alt="Docker"></a>
 
 ## Learning & Interests
 <a href="#"><img src="https://api.iconify.design/devicon-plain:arduino.svg" width="30" height="30" alt="Arduino"></a>
