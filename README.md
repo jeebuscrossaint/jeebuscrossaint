@@ -20,6 +20,7 @@ Currently exploring embedded systems and machine learning
 
 ## Tools I Love
 <a href="#"><img src="https://api.iconify.design/simple-icons:neovim.svg" width="30" height="30" alt="Neovim"></a>
+<a href="#"><img src="https://api.iconify.design/simple-icons:helix.svg" width="30" height="30" alt="Helix"></a>
 <a href="#"><img src="https://api.iconify.design/iconoir:git.svg" width="30" height="30" alt="Git"></a>
 <a href="#"><img src="https://api.iconify.design/simple-icons:zedindustries.svg" width="30" height="30" alt="Zed"></a>
 <a href="#"><img src="https://api.iconify.design/lineicons:docker.svg" width="30" height="30" alt="Docker"></a>
