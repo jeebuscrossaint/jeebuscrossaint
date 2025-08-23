@@ -4,7 +4,7 @@ Developer with a passion for systems programming and cross-platform development
 
 Currently exploring embedded systems and machine learning and quantum computing.
 
-## 💻 Operating Systems
+## Operating Systems
 Windows 11 & NixOS & OpenBSD & FreeBSD & NetBSD & Illumos/OpenSolaris (I occasionally use other Linux distros [preferably Alpine, Void, & MX Linux] on other devices but not as a daily driver)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -18,29 +18,25 @@ Windows 11 & NixOS & OpenBSD & FreeBSD & NetBSD & Illumos/OpenSolaris (I occasio
 ![Solaris](https://img.shields.io/badge/Solaris-ED1C24?style=for-the-badge&logo=oracle&logoColor=white)
 
 
-## 🔧 Languages
-C, C++, Rust, JavaScript, Zig, Python, Powershell, and other *nix shells are of my interest
+## Languages
+C, C++, Rust, Zig, Powershell, and other *nix shells are of my interest
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🛠️ Tools
-I enjoy the neovim, helix, zed text editors, and other tooling I use include of course git and docker I would put cmake here but that kinda falls under languages except its really a pseudo language 
+## Tools
+I enjoy the neovim, helix, zed text editors, and other tooling I use include of course git.
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <img src="https://img.shields.io/badge/Helix-281733?style=for-the-badge&logo=helix&logoColor=white" alt="Helix">
-<img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed">
 
-## 🎯 Interests
+## Interests
 I want to do more embedded + microcontroller projects and as the entire market is headed I take interest in ai talks and quantum computing
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -49,7 +45,7 @@ I want to do more embedded + microcontroller projects and as the entire market i
 <img src="https://img.shields.io/badge/Quantum%20Computing-6929C4?style=for-the-badge&logo=ibm&logoColor=white" alt="Quantum Computing">
 <img src="https://img.shields.io/badge/Money-💰-green?style=for-the-badge" alt="Money">
 
-## 🌐 Find Me
+## Find Me
 I'm on GitHub & ProtonMail & LinkedIn
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeebuscrossaint)
