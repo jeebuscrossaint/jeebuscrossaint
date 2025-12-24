@@ -3,10 +3,10 @@
 Physics student on a computational track @ UCF as well as Photonics Science & Engineering student @ CREOL
 
 ## Operating Systems
-Windows | Gentoo & Alpine | OpenBSD 
+Windows | NixOS & Alpine | OpenBSD 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-%2354487A.svg?style=for-the-badge&logo=gentoo&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
 
