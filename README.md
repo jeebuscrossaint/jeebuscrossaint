@@ -9,7 +9,7 @@ PER @ UCF Physics
 
 almost exclusively C++ & Python
 
-https://apatel.co/cv.pdf
+https://apatel.co/cv.pdf <-- pretty cool
 
 
 ---
